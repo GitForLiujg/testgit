@@ -1,0 +1,4 @@
+Hello Hadoop!
+Hello Yarn!
+Hello HBase!
+Hello Hive!
